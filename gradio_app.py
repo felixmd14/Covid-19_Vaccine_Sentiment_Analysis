@@ -1,4 +1,4 @@
-# Importations
+# Import required libraries
 from transformers import AutoModelForSequenceClassification
 from transformers import TFAutoModelForSequenceClassification
 from transformers import AutoTokenizer, AutoConfig
